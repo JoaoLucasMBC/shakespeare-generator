@@ -5,6 +5,7 @@ __pycache__/
 
 data/
 model/
+tokenizer/
 
 # C extensions
 *.so

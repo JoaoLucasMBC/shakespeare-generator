@@ -5,3 +5,5 @@ ipykernel
 sentencepiece
 tqdm
 matplotlib
+python-dotenv
+google-generativeai
